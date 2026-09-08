@@ -1,0 +1,6 @@
+{
+  "name": "ECO GYM — Sistema Digital para Academias",
+  "description": "Sistema digital comercial personalizável e white-label para academias com Site Institucional, Área do Aluno, Treinos Interativos, Evolução, Frequência, Painel do Professor, Gestão e Automações Eco Growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
